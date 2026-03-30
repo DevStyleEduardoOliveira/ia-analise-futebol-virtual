@@ -31,7 +31,14 @@ A proposta central é utilizar Inteligência Artificial como ferramenta de apoio
 - Padrões Ambas Marcam (BTTS)  
 - Uso de Handicap (positivo e negativo)  
 - Técnicas como Martingale, Cercamento e Checkouts  
-- Análise de sequências e comportamento do mercado  
+- Análise de sequências e comportamento do mercado
+
+- ### 🔹 Fontes utilizadas
+
+- https://pt.wikipedia.org/wiki/Probabilidade
+- https://pt.wikipedia.org/wiki/Teoria_das_probabilidades
+- https://pt.wikipedia.org/wiki/Gest%C3%A3o_de_risco
+- https://pt.wikipedia.org/wiki/Valor_esperado
 
 ### 🔹 Conteúdo teórico
 
