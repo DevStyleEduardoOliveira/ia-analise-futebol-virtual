@@ -1,4 +1,19 @@
-# 📘 Caderno Temático: Análise de Padrões e Gestão de Risco em Futebol Virtual com IA
+# 🚀 IA + Futebol Virtual: Análise de Padrões e Gestão de Risco
+
+> Projeto desenvolvido para estudar padrões, risco e tomada de decisão no futebol virtual utilizando Inteligência Artificial.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- NotebookLM (IA)
+- GitHub
+- Engenharia de Prompts
+- Conceitos de Probabilidade e Estatística
+
+---
+
+## 📘 Caderno Temático: Análise de Padrões e Gestão de Risco em Futebol Virtual com IA
 
 ## 🎯 Objetivo
 
@@ -11,45 +26,50 @@ A proposta central é utilizar Inteligência Artificial como ferramenta de apoio
 ## 📚 Curadoria de Fontes
 
 ### 🔹 Conteúdo prático (empírico)
-- Estratégias Over/Under
-- Padrões Ambas Marcam (BTTS)
-- Uso de Handicap (positivo e negativo)
-- Técnicas como Martingale, Cercamento e Checkouts
-- Análise de sequências e comportamento do mercado
+
+- Estratégias Over/Under  
+- Padrões Ambas Marcam (BTTS)  
+- Uso de Handicap (positivo e negativo)  
+- Técnicas como Martingale, Cercamento e Checkouts  
+- Análise de sequências e comportamento do mercado  
 
 ### 🔹 Conteúdo teórico
-- Probabilidade e estatística básica
-- Variância em sistemas probabilísticos
-- Gestão de banca (Bankroll Management)
-- Risco e expectativa matemática
+
+- Probabilidade e estatística básica  
+- Variância em sistemas probabilísticos  
+- Gestão de banca (Bankroll Management)  
+- Risco e expectativa matemática  
 
 ---
 
 ## 🧠 Engenharia de Prompts
 
 ### 🔹 Prompt 1
-**Pergunta:**
+
+**Pergunta:**  
 Identifique padrões recorrentes nas estratégias de Over 2.5, Ambas Marcam e Handicap, classificando por risco, frequência e retorno.
 
-**Aprendizado:**
+**Aprendizado:**  
 Permitiu estruturar padrões e entender como diferentes estratégias se comportam em cenários variados.
 
 ---
 
 ### 🔹 Prompt 2
-**Pergunta:**
+
+**Pergunta:**  
 Analise gestão de banca, variância e sequência negativa, propondo um modelo de decisão para dias de baixa previsibilidade.
 
-**Aprendizado:**
+**Aprendizado:**  
 Evidenciou a importância da disciplina e controle de risco como fator principal de sobrevivência no longo prazo.
 
 ---
 
 ### 🔹 Prompt 3
-**Pergunta:**
+
+**Pergunta:**  
 Crie um checklist lógico para validar entradas e reduzir decisões emocionais.
 
-**Aprendizado:**
+**Aprendizado:**  
 Gerou um sistema estruturado de tomada de decisão baseado em critérios técnicos.
 
 ---
@@ -74,11 +94,11 @@ A tomada de decisão também deve considerar variáveis contextuais, como nível
 
 ### 🔹 Riscos Estruturais
 
-- Alta variância do sistema
-- Sequências negativas prolongadas
-- Falsa identificação de padrões
-- Dependência emocional
-- Uso inadequado de Martingale
+- Alta variância do sistema  
+- Sequências negativas prolongadas  
+- Falsa identificação de padrões  
+- Dependência emocional  
+- Uso inadequado de Martingale  
 
 ---
 
@@ -86,23 +106,29 @@ A tomada de decisão também deve considerar variáveis contextuais, como nível
 
 Antes de qualquer entrada:
 
-1. Mercado sem excesso de empates (0x0 / 1x1)
-2. Sequência válida (mínimo 3-4 eventos)
-3. Odds quebradas confirmando cenário
-4. Presença de favorito
-5. Validação via Handicap
-6. Stake entre 0.5% e 1% da banca
-7. Limite máximo de 3 tentativas
+1. Mercado sem excesso de empates (0x0 / 1x1)  
+2. Sequência válida (mínimo 3-4 eventos)  
+3. Odds quebradas confirmando cenário  
+4. Presença de favorito  
+5. Validação via Handicap  
+6. Stake entre 0.5% e 1% da banca  
+7. Limite máximo de 3 tentativas  
 
 ---
 
 ### 🔹 Prompts Reutilizáveis
 
-- Identifique padrões de reversão à média
-- Classifique risco e variância das estratégias
-- Simule cenários de falha
-- Crie modelos de decisão baseados em dados
-- Analise comportamento do mercado em sequências
+- Identifique padrões de reversão à média  
+- Classifique risco e variância das estratégias  
+- Simule cenários de falha  
+- Crie modelos de decisão baseados em dados  
+- Analise comportamento do mercado em sequências  
+
+---
+
+## 💡 Diferencial do Projeto
+
+Este projeto não se limita à descrição de estratégias, mas busca estruturar um modelo lógico de tomada de decisão baseado em dados, reduzindo subjetividade e comportamento emocional em ambientes de alta variância.
 
 ---
 
@@ -111,3 +137,7 @@ Antes de qualquer entrada:
 A utilização de IA no processo de análise permite transformar um ambiente de alta incerteza em um sistema mais estruturado, onde decisões são tomadas com base em lógica, dados e controle de risco, e não apenas em intuição.
 
 ---
+
+## 👨‍💻 Autor
+
+Desenvolvido por Eduardo Oliveira
